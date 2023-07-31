@@ -4,7 +4,7 @@
 The purpose of this module is to deploy VM resources in Azure, using Terraform AzureRM provider
 
 ## Explanation
-Module is deploying resources needed for Azure Linux VM.
+Module is deploying resources needed for Azure Linux VM with installed nginx through cloudinit.
 
 ## Requirements
 * Azure access
